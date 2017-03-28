@@ -1,2 +1,3 @@
 puts "Hello World !"
-puts ":("
+puts "-____-"
+puts "o_o"
